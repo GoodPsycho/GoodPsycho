@@ -1,6 +1,6 @@
-﻿token= NjEyMDk2NDc0MzAxNDY0NTk5.Xa9MRg.2NuTEBU8bnqn5It_maTQ7QV9g7s
-owner= 610155760944545793
-prefix= Pr
+﻿token=NjEyMDk2NDc0MzAxNDY0NTk5.Xa9MRg.2NuTEBU8bnqn5It_maTQ7QV9g7s
+owner=610155760944545793
+prefix=Pr
 game= Shy.
 stayinchannel=true
 songinstatus=false
